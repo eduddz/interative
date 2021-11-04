@@ -1,6 +1,6 @@
 # Interative
 
-![Design preview for the Interative coding challenge](./design/mobile-design.jpg)
+![Design preview for the Interative coding challenge](./src/design/mobile-design.jpg)
 
 
 Getting Started with Create React App
